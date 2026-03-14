@@ -135,13 +135,13 @@ def generate_password():
 #  GUI  #
 
 window = tk.Tk()
-window.title("Saniya Cyber Shield 🔐")
+window.title("Saniya Cyber Shield ")
 window.geometry("520x650")
 window.configure(bg="black")
 
 title = tk.Label(
     window,
-    text="🔐 Advanced Password Intelligence Tool",
+    text=" Advanced Password Intelligence Tool",
     fg="lime",
     bg="black",
     font=("Arial", 16, "bold")
